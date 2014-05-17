@@ -10,5 +10,5 @@ How does it work?
 
 or..
 
-$this->rbot->deactive('module');
+<code>$this->rbot->deactive('module</code>
 
