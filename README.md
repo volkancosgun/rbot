@@ -1,7 +1,7 @@
 rbot
 ====
 
-CodeIgniter Rbot Security System.
+CodeIgniter Rbot Security library.
 
 How does it work?
 ====
